@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510197483 source:c:\users\fedestf\desktop\c\busqueda dni\main.c
+	<stdio.h>
+	<stdlib.h>
+

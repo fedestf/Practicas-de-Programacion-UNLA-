@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502848713 source:c:\users\fedestf\desktop\c\dado\main.c
+	<stdio.h>
+	<stdlib.h>
+

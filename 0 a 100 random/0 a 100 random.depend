@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502849005 source:c:\users\fedestf\desktop\c\0 a 100 random\main.c
+	<stdio.h>
+	<stdlib.h>
+

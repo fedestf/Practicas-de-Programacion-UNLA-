@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506205651 source:c:\users\fedestf\desktop\c\maxy hackers ejercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

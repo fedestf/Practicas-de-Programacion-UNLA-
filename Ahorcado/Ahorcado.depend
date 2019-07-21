@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509567231 source:c:\users\fedestf\desktop\c\ahorcado\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
